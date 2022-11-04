@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Argon PRO React Native",
-    "slug": "argon-pro-react-native",
+    "name": "ERP-Lite-RN",
+    "slug": "erp-lite-rn",
     "privacy": "public",
     "platforms": [
       "ios",
@@ -9,7 +9,7 @@
     ],
     "version": "1.6.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/xeon-icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "cover",
